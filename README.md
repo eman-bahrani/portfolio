@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
 ## Summary
 A dynamic and results-oriented professional with expertise in data analysis, bioinformatics, and computational genomics, with a specific focus on addressing community challenges and improving overall quality of life. Boasting a robust foundation in international collaborations, she has demonstrated her capabilities in collaboration with renowned organizations, including UNDP, UNFPA, Orbis International, AUB, PHCC-Qatar, MoH-Bahrain, Tamkeen, and Shamsaha.

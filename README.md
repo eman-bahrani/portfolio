@@ -14,8 +14,13 @@ A dynamic and results-oriented professional with expertise in data analysis, bio
     - GPA: 3.89/4.00
 
 ## Professional Experience
+- **Dunne Lab, PGJCCR, QUB, Belfast, UK.**
+  - *Master's Student Researcher* (May 2024  – Present)
+    - Conducting bioinformatics analysis as part of my master's thesis under the supervision of Dr Philip Dunne.
+    - Collaborating with the research group to gain new molecular insights into polyps for the prognosis of colorectal cancer through big data analytics techniques.
+    - Utilising R packages and various open source databases to analyse clinical and gene expression data.
 - **Warsha Consultancy and Development, in collaboration with the American University of Beirut (AUB), Remote.**
-  - *Research Analyst – SAWI Project* (Dec 2023 – May 2024)
+  - *Research Analyst – SAWI Project* (Dec 2023 – Present)
     - Conducting data collection interviews with 25 working women to understand their experience.
     - Active participation in project meetings and workshops, providing insights and expertise in data collection.
 - **Shamsaha Women’s Center (Non-Profit Company), Manama, Bahrain.**

@@ -6,8 +6,7 @@ A dynamic and results-oriented professional with expertise in data analysis, bio
 ## Education
 - **Queen’s University Belfast, Northern Ireland**
   - MSc. Bioinformatics and Computational Genomics (2024)
-    - Completed Modules with Distinction: Scientific Programming & Statistical Computing, Analysis of Gene Expression, Genomics & Human Disease.
-    - Upcoming Modules: Applied Genomics, Biostatical Informatics, Health & Biomedical Informatics & the Exposome, Systems Medicine: from Molecules to Populations.
+    - Completed Modules with Distinction: Scientific Programming & Statistical Computing, Analysis of Gene Expression, Genomics & Human Disease, Applied Genomics, Biostatical Informatics, Health & Biomedical Informatics & the Exposome, Systems Medicine: from Molecules to Populations.
     - Dissertation Topic: Development of new molecular understanding in colorectal cancer.
 - **Qatar’s University, Qatar**
   - B.Sc. (Hons) Public Health Conc. Health Management (2019)

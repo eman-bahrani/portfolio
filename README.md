@@ -7,19 +7,19 @@ A dynamic and results-oriented professional with expertise in data analysis, bio
 - **Queen’s University Belfast, Northern Ireland**
   - MSc. Bioinformatics and Computational Genomics (2024)
     - Completed Modules with Distinction: Scientific Programming & Statistical Computing, Analysis of Gene Expression, Genomics & Human Disease, Applied Genomics, Biostatical Informatics, Health & Biomedical Informatics & the Exposome, Systems Medicine: from Molecules to Populations.
-    - Dissertation Topic: Development of new molecular understanding in colorectal cancer.
+    - Dissertation Title: Polyp Fiction: Identification of Biomarkers in Precancerous Lesions Denoting Risk of Recurrence
 - **Qatar’s University, Qatar**
   - B.Sc. (Hons) Public Health Conc. Health Management (2019)
     - GPA: 3.89/4.00
 
 ## Professional Experience
 - **Dunne Lab, PGJCCR, QUB, Belfast, UK.**
-  - *Master's Student Researcher* (May 2024  – Present)
-    - Conducting bioinformatics analysis as part of my master's thesis under the supervision of Dr Philip Dunne.
-    - Collaborating with the research group to gain new molecular insights into polyps for the prognosis of colorectal cancer through big data analytics techniques.
-    - Utilising R packages and various open source databases to analyse clinical and gene expression data.
+  - *Master's Student Researcher* (May 2024  – Sept 2024)
+    - Conducted bioinformatics analysis as part of my master's thesis under the supervision of Dr Philip Dunne.
+    - Collaborated with the research group to gain new molecular insights into polyps for the prognosis of colorectal cancer through big data analytics techniques.
+    - Utilised R packages and various open source databases to analyse clinical and gene expression data.
 - **Warsha Consultancy and Development, in collaboration with the American University of Beirut (AUB), Remote.**
-  - *Research Analyst – SAWI Project* (Dec 2023 – Present)
+  - *Research Analyst – SAWI Project* (Dec 2023 – July 2024)
     - Conducting data collection interviews with 25 working women to understand their experience.
     - Active participation in project meetings and workshops, providing insights and expertise in data collection.
 - **Shamsaha Women’s Center (Non-Profit Company), Manama, Bahrain.**
@@ -58,3 +58,27 @@ A dynamic and results-oriented professional with expertise in data analysis, bio
 - **Software:** Skilled in PowerBI, R Studio, PyCharm, Git, VS Code, HPC, MS Excel, SPSS, gPLINK, Adobe Photoshop.
 - **Soft Skills:** Critical analysis, project management, systems thinking, communication, partnerships and collaboration, policy and program planning, strategy implementation and evaluation, public speaking.
 - **Bioinformatics Analysis:** Applied bioinformatics tools proficiently in genomics and data analysis during coursework and research projects, specializing in sequencing, GWAS analysis, NGS, and WGS.
+
+## Extracurricular Activities
+- **ACRCelerate Colorectal Cancer** and **All-Ireland Colorectal Cancer Conference**, NI (2024)
+Conference attendee.
+- **QUB Student Union**, QUB, NI (2023-present)
+Voted PGT Course Representative.
+- **ICPD30 Review in the Arab Region- Consultation for Adolescents and Youth**, UNFPA, Tunisia, Tunis (2023)
+Nominated to represent Bahraini youth for consultation to draft a youth declaration for ICPD30.
+- **Global Entrepreneurship Week 2022**, Tamkeen (2022)
+Panellist discussing challenges and opportunities for social enterprises in Bahrain.
+- **Youth Leadership Programme**, UNDP (2021-2023)
+Panellist in the 7th local and regional editions; Presenter and Panellist in the 8th edition; National Committee member in the 9th edition.
+
+## Memberships
+- **Nova Talent** (2024-present)
+- **Manama Hub**, Global Shapers Community, WEF (2020-present), 'Health & Aid’ Committee Leader; Impact Officer.
+- **Health Promotion Friends**, Health and Wellness Coach, Manama (2019-present), delivering educational workshops.
+
+## Honors and Achievements
+- QUB’s Vice Chancellor’s International Attainment Scholarship – Postgraduate Taught 2023 (2023)
+- Nominated as the Global Shapers’ Manama Hub’s Impact Officer (2021)
+- Dean’s list and Vice President’s Award for High Achievers (2019)
+- Full ride Bachelor’s Scholarship to QU (2015)
+

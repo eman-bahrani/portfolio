@@ -13,6 +13,11 @@ A dynamic and results-oriented professional with expertise in data analysis, bio
     - GPA: 3.89/4.00
 
 ## Professional Experience
+-**Gulf CDC, Riyadh, KSA.**
+  - *NCD Lead* (October 2024 - Present)
+    - Prepare public health reports for member states.
+    - Conduct situational assessments and data analysis on the status of NCDs in the region.
+    - Propose, develop and execute programs, interventions or policies.
 - **Dunne Lab, PGJCCR, QUB, Belfast, UK.**
   - *Master's Student Researcher* (May 2024  – Sept 2024)
     - Conducted bioinformatics analysis as part of my master's thesis under the supervision of Dr Philip Dunne.
